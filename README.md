@@ -1,4 +1,4 @@
-# housing
+# housing...
 In this project, I analyze a rich, real-world dataset to explore housing appraisal fairness, perform exploratory data analysis (EDA), and use predictive modeling to estimate sale prices. There are two parts:
 
 part1: EDA and Feature Engineering: Focused on cleaning real estate data and creating visualizations to uncover relationships between property features (e.g., dwelling type, square footage, neighborhood) and sale prices.
